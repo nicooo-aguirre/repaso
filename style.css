@@ -1,0 +1,38 @@
+.base {
+    background-image: url(./imagenes/imginfo2.avif);
+    background-size: cover;
+padding: 100px;
+    
+    
+     
+}
+.titu1 {
+    color: aliceblue;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.subti1 {
+    color: aliceblue;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px;
+}
+.info {
+    background-color:goldenrod ;
+    padding: 50px;
+}
+.titu2 {
+    color:aliceblue;
+    text-align: center;
+    font-size: 75px;
+    
+}
+.texto1 {
+   color: aliceblue; 
+   font-size: 20px;
+}
+
+
