@@ -36,8 +36,18 @@ padding: 100px;
 }
 .auto_inter {
     padding: 50px;
+    
 }
 .card {
     display: flex;
+    padding: 50px;
+    margin: 50px;
+}
+.conjunto_card {
+    display: flex;
+}
+
+.logo {
+    margin-left: 150px;
 }
 
